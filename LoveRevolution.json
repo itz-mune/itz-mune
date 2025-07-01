@@ -5,20 +5,35 @@
   "author": "",
   "cover": "https://meo.comick.pictures/e2G5X-m.jpg",
   "chapters": {
-    "88": {
-      "title": "88",
+    "89": {
+      "title": "89",
       "volume": "",
-      "last_updated": "1751046453",
+      "last_updated": "1751371319",
       "groups": {
-        "Clockwork Comics": [
-          "https://gcdnb.pbrd.co/images/FPrBMmqlFpv6.png",
-          "https://gcdnb.pbrd.co/images/Mj9VatZr4Y7e.png",
-          "https://gcdnb.pbrd.co/images/G3YZbrEsptPx.png",
-          "https://gcdnb.pbrd.co/images/A45jGdObAVcc.png",
-          "https://gcdnb.pbrd.co/images/XBiMnUtQPkAg.png",
-          "https://gcdnb.pbrd.co/images/M7D5KdR5GFEB.png",
-          "https://gcdnb.pbrd.co/images/XW9ocM9Ix1CT.png",
-          "https://gcdnb.pbrd.co/images/b4S63Rn1wXVm.png"
+        "": [
+          "https://files.catbox.moe/n1mmx5.png",
+          "https://files.catbox.moe/lkopa9.png",
+          "https://files.catbox.moe/5p3myz.png",
+          "https://files.catbox.moe/bollue.png",
+          "https://files.catbox.moe/xs8cud.png",
+          "https://files.catbox.moe/zc4awx.png",
+          "https://files.catbox.moe/ymvir0.png"
+        ]
+      }
+    },
+    "90": {
+      "title": "90",
+      "volume": "",
+      "last_updated": "1751371396",
+      "groups": {
+        "": [
+          "https://files.catbox.moe/5woo4s.png",
+          "https://files.catbox.moe/cgumsb.png",
+          "https://files.catbox.moe/lsk2wx.png",
+          "https://files.catbox.moe/32ztic.png",
+          "https://files.catbox.moe/snot90.png",
+          "https://files.catbox.moe/vua1wl.png",
+          "https://files.catbox.moe/alwgy5.png"
         ]
       }
     }
